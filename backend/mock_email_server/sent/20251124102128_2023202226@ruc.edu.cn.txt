@@ -1,4 +1,0 @@
-To: 2023202226@ruc.edu.cn
-Subject: Test Subject
-Body: Test Body
-Attachment: None
